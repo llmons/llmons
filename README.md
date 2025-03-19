@@ -3,7 +3,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=llmons&layout=donut&theme=dracula" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=llmons&theme=dracula" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=llmons&theme=dracula" alt="GitHub Streak" />
   </a>
 </div>
 
